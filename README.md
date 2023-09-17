@@ -1,4 +1,4 @@
-# Python Templates
+# ![Python Templates](images/python-full-50.png)
 
 For Best results with using these templates, I recommend using the following:
 
@@ -8,17 +8,20 @@ For Best results with using these templates, I recommend using the following:
   - Bookmarks - reference all places where custom information is needed to be entered.
   - Better Comments - a great way to color code comments, which I use in all my code.
 
-## Generic
+## ![Generic](images/generic-20.png)
 
-## Flask
+- Notes referenced template with examples
+- Template outlining Pythonic syntax and layout styling
+- Collection of useful classes and functions
+
+## ![Flask](images/flask-full-30.png)
 
 Flask is a flexible minimalistic Python web framework
 
-- uses Jinja template engine
-  - Jinja2 is a templating language for Python with powerful set of tools and
-    intuitive design. It is flexible text-based template engine and can generate
-    any source or markup code. Tags, globals, tests, and filters can be
-    customized in Jinja2.
+- uses Jinja2 template engine
+  - Jinja is a fast, expressive, extensible templating engine. Special
+    placeholders in the template allow writing code similar to Python syntax.
+    Then the template is passed data to render the final document.
   - use Jinja VS Code extension for language support
 - 
 
@@ -35,14 +38,16 @@ Flask is a flexible minimalistic Python web framework
  ┃ 📜app.py<br>
  ┗ 📜test.db<br>
 
-## Django
+## ![Django](images/django-full-30.png)
 
-## PySide6
+## ![PySide6](images/pyside6-full-30.png)
 
-## PyTorch
+## ![PyTorch](images/pytorch-full-30.png)
 
-### Generic
+### ![Generic](images/generic-15.png)
 
-### Torchaudio
+### ![TorchAudio](images/torchaudio-full-20.png)
 
-## PyGame
+TorchAudio is a PyTorch library to work with audio.
+
+## ![PyGame](images/pygame-full-30.png)
