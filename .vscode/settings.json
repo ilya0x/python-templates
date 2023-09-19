@@ -3,5 +3,10 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
     },
-    "python.formatting.provider": "none"
+    "python.formatting.provider": "none",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0D323B",
+        "titleBar.activeBackground": "#124652",
+        "titleBar.activeForeground": "#F4FBFD"
+    }
 }
