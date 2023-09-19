@@ -1,5 +1,16 @@
 # ![Python Templates](images/python-full-50.png)
 
+TODO:
+
+- [ ] Create Table of Contents for Templates section
+- [ ] Create Table of Contents for Notes section
+
+<br>
+
+## <img src="images/template-20.png" alt="template"> Templates
+
+<br>
+
 For Best results with using these templates, I recommend using the following:
 
 - Visual Studio Code with the following extensions:
@@ -10,7 +21,7 @@ For Best results with using these templates, I recommend using the following:
 
 <br>
 
-## ![Generic](images/generic-20.png)
+### ![Generic](images/generic-20.png)
 
 - Notes referenced template with examples
 - Template outlining Pythonic syntax and layout styling
@@ -18,7 +29,7 @@ For Best results with using these templates, I recommend using the following:
 
 <br>
 
-## ![Flask](images/flask-full-30.png)
+### ![Flask](images/flask-full-30.png)
 
 Flask is a flexible minimalistic Python web framework
 
@@ -43,19 +54,18 @@ Flask is a flexible minimalistic Python web framework
 
 <br>
 
-## ![Django](images/django-full-30.png)
+### ![Django](images/django-full-30.png)
 
 <br>
 
-## ![PySide6](images/pyside6-full-30.png)
+### ![PySide6](images/pyside6-full-30.png)
 
 <br>
 
-## ![PyTorch](images/pytorch-full-30.png)
+### ![PyTorch](images/pytorch-full-30.png)
 
-<br>
-
-### ![Generic](images/generic-15.png)
+PyTorch is a fully featured Python framework for building deep learning models
+for Machine Learning.
 
 <br>
 
@@ -65,7 +75,11 @@ TorchAudio is a PyTorch library to work with audio.
 
 <br>
 
-## ![PyGame](images/pygame-full-30.png)
+### ![PyGame](images/pygame-full-30.png)
+
+<br>
+
+## <img src="./images/vscode-20.png" alt="Flask"> Visual Studio Code Extensions
 
 <br>
 
