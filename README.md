@@ -1,9 +1,31 @@
 # ![Python Templates](images/python-full-50.png)
 
-<a href="https://www.python.org/">Python</a> is a general-purpose, user-friendly programming language known for its
-great readability and versatility. It has a vast ecosystem of libraries and
-frameworks, making it suitable for various applications, from web development to
-scientific computing, and is compatible across all operating systems.
+<!--
+TODO: Add function definitions to all functions:
+
+def say_hello():
+
+    """
+    # Hello function
+
+    this is a comment about the Hello function
+
+    > Note: something of note
+
+    ```python
+    let i = Hello
+    print(i)
+    ```
+    """
+
+    print("Hello")
+-->
+
+<a href="https://www.python.org/">Python</a> is a general-purpose, user-friendly
+programming language known for its great readability and versatility. It has a
+vast ecosystem of libraries and frameworks, making it suitable for various
+applications, from web development to scientific computing, and is compatible
+across all operating systems.
 
 <br>
 
@@ -58,22 +80,19 @@ TorchAudio is a PyTorch library to work with audio.
 
 <br>
 
-TODO: Add function definitions to all functions:
+### Variables
 
-``` python
-def say_hello():
+- Names of variables can have letters, numbers, and underscores, but cannot
+  start with numbers (it can start with underscores). Python will give you a
+  SyntaxError if you use anything else that is not allowed.
 
-    """
-    # Hello function
+<br>
 
-    this is a comment about the Hello function
+### Expressions vs Statements
 
-    > Note: something of note
+- Expressions produce a value and are often found inside statements
 
-    ```python
-    let i = Hello
-    print(i)
-    ```
-    """
-    print("Hello")
-```
+- Statements perform actions and are executed sequentially. They control the
+  flow of the program, define functions and classes, perform assignments, etc.
+
+<br>
