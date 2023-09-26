@@ -31,7 +31,7 @@ Django is a high-level web framework for Python that simplifies web application
 development.
 
 <br>
-
+<!--
 [![PyTorch](images/pytorch-full-30.png)](https://github.com/ilya0x/pytorch-templates)
 
 PyTorch is a fully featured Python framework for building deep learning models
@@ -44,6 +44,7 @@ for Machine Learning.
 TorchAudio is a PyTorch library to work with audio.
 
 <br>
+-->
 
 ## <img src="./images/vscode-20.png" alt="Flask"> Visual Studio Code Extensions
 
